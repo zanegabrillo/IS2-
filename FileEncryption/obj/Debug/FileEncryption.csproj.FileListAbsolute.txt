@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FileEncryption\bin\Debug\FileEncryption.exe.config
+C:\Users\User\source\repos\FileEncryption\bin\Debug\FileEncryption.exe
+C:\Users\User\source\repos\FileEncryption\bin\Debug\FileEncryption.pdb
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.Form1.resources
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.Properties.Resources.resources
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.exe
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.pdb
+C:\Users\User\source\repos\FileEncryption\bin\Debug\FileEncryption.exe.manifest
+C:\Users\User\source\repos\FileEncryption\bin\Debug\FileEncryption.application
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.exe.manifest
+C:\Users\User\source\repos\FileEncryption\obj\Debug\FileEncryption.application
